@@ -40,13 +40,13 @@ We believe in learning by doing. That's why we offer:
 
 Are you ready to embark on this exciting tech journey with us? Here's how you can get involved:
 
-- **Join Our Community:** [link to Slack channel]
+- **Join Our Community:** [link to Whatsapp Community](https://chat.whatsapp.com/J57YEIgY5JSJtaXue4GjC0)
 - **Stay Updated:** Follow us on social media:
   - Facebook: [DevHack Club](https://facebook.com/devhackclub)
   - Instagram: [DevHack Club](https://instagram.com/devhackclub)
   - LinkedIn: [DevHack Club](https://linkedin.com/company/devhackclub)
-- **Attend Our Events:** Check out our events calendar [link to events calendar] and join us for our next exciting gathering.
+
 
 DevHack Club welcomes curious minds, budding developers, and tech enthusiasts alike. Come, be a part of our vibrant community, and let's explore the world of software development together. We can't wait to meet you!
 
-[Insert Contact Information]
+[Mail Us](devhackclub92@gmail.com) or Visit Our [Website](https://devhackclub.netlify.app)
