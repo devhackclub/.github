@@ -2,7 +2,7 @@
 
 ![DevHack Club Logo](/Profile/Artboard%202.png)
 
-DevHack Club is a vibrant and student-run organization at [University Name], passionately committed to nurturing the tech-savvy minds of our campus. We are dedicated to fostering an environment where individuals of all skill levels can dive into the exciting world of software development.
+DevHack Club is a vibrant and student-run organization at The Islamia University of Bahawalpur, passionately committed to nurturing the tech-savvy minds of our campus. We are dedicated to fostering an environment where individuals of all skill levels can dive into the exciting world of software development.
 
 At DevHack Club, we firmly believe that technology should be accessible to everyone, and our mission is to provide the knowledge, resources, and support necessary to make that vision a reality.
 
